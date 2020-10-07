@@ -15,14 +15,14 @@ body{
 H1{
 color: black;
 font-size: 60px;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
 H2{
     color: rgb(3, 3, 48);
     font-size: 30PX;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 H3{
     color:rgba(0, 0, 0, 0.774);
@@ -30,18 +30,25 @@ H3{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.service1{
-    border-radius: 50%;
+.ilust{
+margin-left: 10px;
+margin-bottom: 20px;
+border-radius: 10%;
+width: 250px;
+
 }
-.service2{
-    border-radius: 50%;
+
+.parc{
+margin-right: 12px;
+margin-left: 10px;
+margin-bottom: 20px;
+border-radius: 50%;
+width: 180px;
+
 }
-.tel{
+
+.logo{
     border-radius: 50%;
-}
-.twetter{
-    border-radius: 50%;
-}
-.email{
-    border-radius: 50%;
+    width: 20px;
+    margin-right: 0%;
 }
